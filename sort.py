@@ -1,5 +1,5 @@
 n = [[0,0]*12]
-
+#ghjkl
 def SortInsert(sorting_list, start = 1):
     for i in range(start,len(sorting_list)):
         for j in range(i,0,-1):
